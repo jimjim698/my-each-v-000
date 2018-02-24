@@ -11,4 +11,5 @@ end
 
 
  my_each([1,2,3,4])
-  {|i| puts i}
+  do |i| puts i
+  end
