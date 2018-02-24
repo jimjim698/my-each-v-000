@@ -11,4 +11,4 @@ end
 
 
 def my_each([1,2,3,4])
-  {|i| puts i}
+  {|o| puts o}
