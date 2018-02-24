@@ -8,3 +8,7 @@ array
    # put argument(s) here
   # code here
 end
+
+
+def my_each([1,2,3,4])
+  {|i| puts i}
